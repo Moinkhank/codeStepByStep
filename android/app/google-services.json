@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "488019317264",
+    "firebase_url": "https://foodapp01-5da3a-default-rtdb.firebaseio.com",
+    "project_id": "foodapp01-5da3a",
+    "storage_bucket": "foodapp01-5da3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488019317264:android:1463ef20bfe1c7fb4ef095",
+        "android_client_info": {
+          "package_name": "com.codestepbystep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUZjZzrCl3O9Bw1iB189PA3Y5pWYYxd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
